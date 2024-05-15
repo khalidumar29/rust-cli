@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "cli-app"
+name = "cli_app"
 version = "0.1.0"
